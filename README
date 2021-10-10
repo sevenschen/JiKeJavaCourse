@@ -1,0 +1,7 @@
+1.在 main 函数启动一个新线程，运行一个方法，拿到这个方法的返回值后，退出主线程
+
+
+
+
+2.多线程和并发相关知识梳理
+http://naotu.baidu.com/file/d885c8d543e37de112b8cdca5e8074f4?token=c82ad71314b8bb8e
